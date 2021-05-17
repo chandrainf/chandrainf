@@ -8,7 +8,7 @@ Thank you for checking my GitHub Profile! This is where I mostly spent my time i
 - ⚡ Fun fact: **I live in the internet!**
 
 
-
+#### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
