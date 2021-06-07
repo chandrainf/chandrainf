@@ -5,7 +5,7 @@
 Thank you for checking my GitHub Profile! This is where I mostly spent my time if I'm not reading a book.
 
 - 💡 &nbsp;Actively Looking for an opportunity as a Front-end developer.
-- ✉️ &nbsp;You can shoot me an email at chandra.praputraa@gmail.com!.  I'll try to respond as soon as I can.
+- ✉️ &nbsp;You can shoot me an email at chandra.praputraa@gmail.com!.<br/>  I'll try to respond as soon as I can.
 
 <!-- 📄 &nbsp;Please have a look at my [Online Résumé](http://www.chandrapratama.netlify.app) for more details about me. I'm open to feedback and suggestions! -->
 
