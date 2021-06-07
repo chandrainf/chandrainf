@@ -17,7 +17,7 @@ Thank you for checking my GitHub Profile! This is where I mostly spent my time i
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/chandra-pratama-putra//"><img src="https://img.shields.io/badge/-Chandra Pratama-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
